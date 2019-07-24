@@ -1,1 +1,1 @@
-web: gunicorn django_project.wsgi
+worker: python3 yourfile.py
